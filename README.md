@@ -2,10 +2,11 @@
 
 ### Pequenos projetos e desafios para treinar CSS e JavaScript
 
-### Calculadora simples de IMC
 
-####  Confira o resultado: [IMC](https://imc-calculo.netlify.app)
+## Calculadora simples de IMC
 
-### Clone da tela de inicio do Disney+
+###  Confira o resultado: [IMC](https://imc-calculo.netlify.app)
 
-#### Confira o resultado: [Disney+](https://disney-mais.netlify.app)
+## Clone da tela de inicio do Disney+
+
+### Confira o resultado: [Disney+](https://disney-mais.netlify.app)
