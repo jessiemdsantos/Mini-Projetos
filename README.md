@@ -1,4 +1,6 @@
-# Meu minis projetinhos
+# Meus minis projetinhos
+
+### Pequenos projetos e desafios para treinar CSS e JavaScript
 
 ## Calculadora simples de IMC
 
